@@ -16,7 +16,7 @@ Twoim zadaniem jest:
 - W przypadku nieistniejącego incydentu przekierować użytkownika do listy incydentów.
 - Wyświetlić za pomocą `MatSnackBar` informację, że wskazany incydent nie istnieje.
 - Przypisać utworzony guard do ścieżki szczegółów incydentu za pomocą `canActivate`.
-Rezultat: wejście na adres istniejącego incydentu otwiera jego szczegóły. Próba wejścia na adres z nieistniejącym `id`nie aktywuje widoku szczegółów — użytkownik otrzymuje komunikat i zostaje przekierowany do listy incydentów.
+Rezultat: wejście na adres istniejącego incydentu otwiera jego szczegóły. Próba wejścia na adres z nieistniejącym `id` nie aktywuje widoku szczegółów — użytkownik otrzymuje komunikat i zostaje przekierowany do listy incydentów.
 
 ## Jak zacząć
 
